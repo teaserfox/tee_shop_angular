@@ -18,7 +18,14 @@
     "@angular/platform-browser": "^14.2.0",
     "@angular/platform-browser-dynamic": "^14.2.0",
     "@angular/router": "^14.2.0",
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.3.8",
+    "hover.css": "^2.3.2",
+    "jquery": "^3.7.1",
+    "jquery-ui-dist": "^1.13.3",
+    "magnific-popup": "^1.2.0",
     "rxjs": "~7.5.0",
+    "slick-carousel": "^1.8.1",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
@@ -27,12 +34,16 @@
     "@angular/cli": "~14.2.13",
     "@angular/compiler-cli": "^14.2.0",
     "@types/jasmine": "~4.0.0",
+    "@types/jquery": "^3.5.33",
+    "@types/jqueryui": "^1.12.24",
+    "@types/node": "^16.18.126",
     "jasmine-core": "~4.3.0",
     "karma": "~6.4.0",
     "karma-chrome-launcher": "~3.1.0",
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.0.0",
-    "typescript": "~4.7.2"
+    "sass": "^1.94.2",
+    "typescript": "4.8"
   }
 }
